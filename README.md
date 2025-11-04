@@ -1,2 +1,1 @@
-# Brick-breaker-game
-It's a brick breaker game that we had to create for an exam to discover programming with Unity.
+This is a brick breaker game that we had to develop for an exam as an introduction to programming with Unity. It allowed us to learn the basics of game development, including physics, collisions, and scripting.
